@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginUygulama</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">E-posta</string>
+    <string name="prompt_password">Şifre</string>
+    <string name="action_sign_in">Kayıt Ol</string>
+    <string name="action_sign_in_short">Kayıt Ol</string>
+    <string name="facebook_app_id">1256218224442739</string>
+    <string name="fb_login_protocol_scheme">fb1256218224442739</string>
+    <string name="server_client_id">lEW1zEXMLJK0SIXVqY0qw7K7</string>
+    <string name="loading">Yükleniyor…</string>
+
+</resources>
